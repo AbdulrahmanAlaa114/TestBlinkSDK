@@ -5,19 +5,19 @@ import PackageDescription
 
 let package = Package(
     name: "BlinkSDK",
+    platforms: [.iOS(.v13)],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
+        // Define the library product that uses the binary and other dependencies.
         .library(
             name: "BlinkSDK",
-            targets: ["BlinkSDK"]),
+            targets: ["BlinkSDK"]
+        ),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "BlinkSDK"),
-        .testTarget(
-            name: "BlinkSDKTests",
-            dependencies: ["BlinkSDK"]),
+        // The binary target that includes the precompiled xcframework.
+        .binaryTarget(
+            name: "BlinkSDK",
+            path: "./Sources/BlinkSDK.xcframework"
+        )
     ]
 )
