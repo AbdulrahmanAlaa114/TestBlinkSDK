@@ -16,53 +16,57 @@
 		<data>
 		3zCEQkQ5A4sk663j8X4tMtwHnOE=
 		</data>
+		<key>Headers/BlinkSDK.h</key>
+		<data>
+		N1Bq6/4d5n7CUqTGUUB8B7yq01A=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		A6MrPnjmyu/XHqMvvpdxQcDhloY=
+		OaYdHfHrVp4nHMf9lemJYBAmS/w=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qiKzyHNecoMb0ZEoQjxCp3snF1Y=
+		8EBXzFK9IY1R9jyxSTQKuBpg7g8=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		EFxyqQimlkHsHQjid5MtHo73DZY=
+		nCgdpoCFZ6s/c0DtCsnpH6SZJrY=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		09VySZCkUwrFLXhJBvIcnxz2X1k=
+		0XNruazA3P4vWEoIDGrvg5Io4YY=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		EFxyqQimlkHsHQjid5MtHo73DZY=
+		nCgdpoCFZ6s/c0DtCsnpH6SZJrY=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2j5hYe8/TvMdkNW2YVpGVIu/FKg=
+		0Yu6/Qy9Cypo5GWc1mWUsSF0t+Y=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qiKzyHNecoMb0ZEoQjxCp3snF1Y=
+		8EBXzFK9IY1R9jyxSTQKuBpg7g8=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		hW0kqMeX6qr/AV/WzuqAPTYIEGs=
+		ltbS1hBDgUJMFkq5noc2bY9DtcI=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		8RfKnLZz167nZ/kTzRILdVDM+8o=
+		f9DnWOuKtkCSg7rOwCAqIKkVvfw=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		hW0kqMeX6qr/AV/WzuqAPTYIEGs=
+		ltbS1hBDgUJMFkq5noc2bY9DtcI=
 		</data>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OmdHzm76KPyybauWgdWnjxqbK+w=
+		MfVXYZC9kH2SDCqmOuFy5KsEOZQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		e3ADaD6qCaM9oAFcwMUn6DWvLfo=
+		8KjoZXXq04s0n39zQw/Hsq4xzFY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,81 +92,88 @@
 			VL6itF6CBmB0xoGpzsS6U3GOgUa7UqgfGIk4ukj5mto=
 			</data>
 		</dict>
+		<key>Headers/BlinkSDK.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cHTHoeMY90/DzyJS7SwH0NjrKup5NWOT5n1dPz5nUiE=
+			</data>
+		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vF4qHfg8ldfK/DxsHiUVrzc3wiArZ6L8v9SYFI6BgCI=
+			7Bt5yEPRcWgaOM8D+tj50T7gesNwzOTO+pNDrjsYmHY=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z5cn9wqkSRBTbbB8s0vkI2iLrZ1Cg5VMqhZflAlDZDk=
+			Bi3Tev//cUqZr/sNxQfC6j3DM7a8QIT3xCCmQQDIM7U=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Otg0U2ihTOjF1VndZkaI+kveeJje8J48FXunU5y/AY=
+			1xbjAOnRrPtIbL6CmjLPDRQH89MaC5sHfgOlaV77t68=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z5cn9wqkSRBTbbB8s0vkI2iLrZ1Cg5VMqhZflAlDZDk=
+			Bi3Tev//cUqZr/sNxQfC6j3DM7a8QIT3xCCmQQDIM7U=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7WGr5MSEVp0/3cXydNI0Gn0mBCEx9Arqr99WncxdqE=
+			jOm7gM6icipGSDEZj5NShU/UqbsPGEMDpq8T96FCpbA=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vF4qHfg8ldfK/DxsHiUVrzc3wiArZ6L8v9SYFI6BgCI=
+			7Bt5yEPRcWgaOM8D+tj50T7gesNwzOTO+pNDrjsYmHY=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f9IwtjddBKDfxwJ0vjGd582S16a9gTcwPyA3svpTwo0=
+			ZHk+JYZ3njZcFefc6Tauwvnrf4rDo7dtCLWQOe+rhlo=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vPbSJ/KT3JBKs26bEoh0CJUQs415A5tsIlgRfMOWbUo=
+			NljPHo0EKReF+TWbW8wmkfPMdh1mkIyp5tzqhuuJvp8=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f9IwtjddBKDfxwJ0vjGd582S16a9gTcwPyA3svpTwo0=
+			ZHk+JYZ3njZcFefc6Tauwvnrf4rDo7dtCLWQOe+rhlo=
 			</data>
 		</dict>
 		<key>Modules/BlinkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b4h/4lzKPqS9qCDC6xV6wXafAuReHD9o0fKWQI85nRs=
+			y7UJNDMuFLbopIBfFtxooAiP9EisGbtg1BLBLtzGJ8U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IGJ3qcEGj/z4nUl/OelPt0qb+aK/QFDL5Qk2IXJQtDY=
+			TmXbTWXzPDgXZkOvQ1D5wIn96KTQxDEiIjLMSdYL+Fg=
 			</data>
 		</dict>
 	</dict>
