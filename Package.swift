@@ -8,12 +8,24 @@ let package = Package(
     products: [
         .library(
             name: "TestBlinkSDK",
-            targets: ["TestBlinkSDK"]
+            targets: ["TestBlinkSDK", "TestBlinkSDKBinary"]
         ),
     ],
+    dependencies: [
+        .package(url: "https://github.com/tareksabry1337/TensorFlowLiteSwift.git", exact: "2.9.1"),
+    ],
     targets: [
-        .binaryTarget(
+        .target(
             name: "TestBlinkSDK",
+            dependencies: [
+                "TestBlinkSDKBinary",
+                .product(name: "TensorFlowLiteSwift", package: "TensorFlowLiteSwift")
+
+            ],
+            path: ""
+        ),
+        .binaryTarget(
+            name: "TestBlinkSDKBinary",
             path: "./Sources/BlinkSDK.xcframework"
         )
     ]

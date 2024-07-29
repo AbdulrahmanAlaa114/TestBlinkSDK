@@ -1,5 +1,5 @@
 import XCTest
-@testable import BlinkSDK
+//@testable import BlinkSDK
 
 final class BlinkSDKTests: XCTestCase {
     func testExample() throws {
